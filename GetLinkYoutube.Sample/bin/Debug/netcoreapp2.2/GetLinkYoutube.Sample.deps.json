@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GetLinkYoutube.Sample/1.0.0": {
+        "dependencies": {
+          "GetLinkYoutube": "1.0.0"
+        },
+        "runtime": {
+          "GetLinkYoutube.Sample.dll": {}
+        }
+      },
+      "GetLinkYoutube/1.0.0": {
+        "runtime": {
+          "GetLinkYoutube.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetLinkYoutube.Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GetLinkYoutube/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

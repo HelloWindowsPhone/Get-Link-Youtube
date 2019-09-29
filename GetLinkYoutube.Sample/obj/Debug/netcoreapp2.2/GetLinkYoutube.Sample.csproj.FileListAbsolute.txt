@@ -1,0 +1,14 @@
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\bin\Debug\netcoreapp2.2\GetLinkYoutube.Sample.deps.json
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\bin\Debug\netcoreapp2.2\GetLinkYoutube.Sample.runtimeconfig.json
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\bin\Debug\netcoreapp2.2\GetLinkYoutube.Sample.runtimeconfig.dev.json
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\bin\Debug\netcoreapp2.2\GetLinkYoutube.Sample.dll
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\bin\Debug\netcoreapp2.2\GetLinkYoutube.Sample.pdb
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\bin\Debug\netcoreapp2.2\GetLinkYoutube.dll
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\bin\Debug\netcoreapp2.2\GetLinkYoutube.pdb
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\obj\Debug\netcoreapp2.2\GetLinkYoutube.Sample.csprojAssemblyReference.cache
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\obj\Debug\netcoreapp2.2\GetLinkYoutube.Sample.csproj.CoreCompileInputs.cache
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\obj\Debug\netcoreapp2.2\GetLinkYoutube.Sample.AssemblyInfoInputs.cache
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\obj\Debug\netcoreapp2.2\GetLinkYoutube.Sample.AssemblyInfo.cs
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\obj\Debug\netcoreapp2.2\GetLinkYoutube.Sample.csproj.CopyComplete
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\obj\Debug\netcoreapp2.2\GetLinkYoutube.Sample.dll
+C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube.Sample\obj\Debug\netcoreapp2.2\GetLinkYoutube.Sample.pdb
