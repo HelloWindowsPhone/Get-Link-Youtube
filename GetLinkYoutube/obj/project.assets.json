@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KhanhPhan\\Source\\Projects\\GetLinkYoutube\\GetLinkYoutube\\GetLinkYoutube.csproj",
-      "projectName": "GetLinkYoutube",
-      "projectPath": "C:\\Users\\KhanhPhan\\Source\\Projects\\GetLinkYoutube\\GetLinkYoutube\\GetLinkYoutube.csproj",
+      "projectUniqueName": "C:\\Users\\KhanhPhan\\Source\\Repos\\GetLinkYoutube\\GetLinkYoutube\\GetLinkYoutube.csproj",
+      "projectName": "GetLinkYoutube.HLWP",
+      "projectPath": "C:\\Users\\KhanhPhan\\Source\\Repos\\GetLinkYoutube\\GetLinkYoutube\\GetLinkYoutube.csproj",
       "packagesPath": "C:\\Users\\KhanhPhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KhanhPhan\\Source\\Projects\\GetLinkYoutube\\GetLinkYoutube\\obj\\",
+      "outputPath": "C:\\Users\\KhanhPhan\\Source\\Repos\\GetLinkYoutube\\GetLinkYoutube\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,3 +7,12 @@ C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube\obj\Debug\netst
 C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.AssemblyInfo.cs
 C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.dll
 C:\Users\KhanhPhan\Source\Projects\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.pdb
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\bin\Debug\netstandard2.0\GetLinkYoutube.deps.json
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\bin\Debug\netstandard2.0\GetLinkYoutube.dll
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\bin\Debug\netstandard2.0\GetLinkYoutube.pdb
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.csprojAssemblyReference.cache
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.csproj.CoreCompileInputs.cache
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.AssemblyInfoInputs.cache
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.AssemblyInfo.cs
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.dll
+C:\Users\KhanhPhan\Source\Repos\GetLinkYoutube\GetLinkYoutube\obj\Debug\netstandard2.0\GetLinkYoutube.pdb
